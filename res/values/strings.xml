@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">income_tax</string>
+    <string name="t1">INCOME TAX BAR(AGE)</string>
+    <string name="B1">  BELOW 60 YEARS </string>
+    <string name="B2">  60-80 YEARS </string>
+    <string name="B3">  ABOVE 80 YEARS </string>
+    <string name="B4">  CACLUATE INCOME TAX </string>
+    <string name="t2"> DETAILS </string>
+    <string name="t3"> AGE </string>
+    <string name="t4"> AMOUNT</string>
+    <string name="t5"> TAX </string>
+    <string name="t6"> TAX DETAILS</string>
+
+
+</resources>
